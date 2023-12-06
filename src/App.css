@@ -67,7 +67,7 @@ body {
 }
 
 .gallery-member.chosen {
-    border: 2px solid red;
+    border: 2px solid #4d4d4d;
 }
 
 .gallery-member.chosen img {
