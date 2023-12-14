@@ -1,6 +1,6 @@
 # Media Gallery
 
-<img width="800" alt="image" src="https://github.com/leevayy/media-gallery/assets/86363699/babe8316-440c-475f-9a9d-4abcd27869f3">
+<img width="880" alt="image" src="https://github.com/leevayy/media-gallery/assets/86363699/85e9f9cf-f0fa-40cb-b6e6-77297b799813">
 
 # Installation
 ```
